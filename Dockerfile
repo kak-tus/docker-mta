@@ -1,4 +1,4 @@
-FROM alpine:3.5
+FROM alpine:3.4
 
 ENV CONSUL_TEMPLATE_VERSION=0.18.0
 
